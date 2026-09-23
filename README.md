@@ -25,6 +25,14 @@ Turn it into RPSLizard Spock<br>
 If logic that repeats CPU shoot (e.g. at 0) show how many times 0 was hit before hitting 1-3, 4-6, or 7-9)<br>
 
 More to come, have to go to work :(<br>
-
+=================================
+Thoughts on the UI:
+Not sure if I'm supposed to be making this a big pretty page yet or if
+that is later. BUT here are the thoughts on the UI
+Use stable diffusion for the assets
+'Do you want to play a game?' opening
+anthropomorphize the rock, paper, scissors (like battle beasts?
+create a random button for the player?
+Create a life count or health bar?
 
 
